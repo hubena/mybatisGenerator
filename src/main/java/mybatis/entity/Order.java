@@ -12,7 +12,7 @@ public class Order {
     private Integer orderyear;
 
     /**
-     * 
+     *  ≤‚ ‘
      */
     private Integer orderprice;
 
